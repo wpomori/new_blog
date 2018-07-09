@@ -1,0 +1,8 @@
+*.pyc
+*~
+treino
+db.sqlite3
+myvenv
+/static
+__pycache__
+tutorial_preparacao.txt
